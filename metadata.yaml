@@ -1,5 +1,8 @@
 _repo: With-Cavalry-in-1915-The-British-Trooper-in-the-Trench-Line-Through-the-Second-Battle-of-Ypre__51285
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51285-h/images/cover.jpg
 creator:
   author:
     agent_name: Coleman, Frederic
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '46344'
     url: http://www.gutenberg.org/2009/agents/46344
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51285#With-Cavalry-in-1915-The-British-Trooper-in-the-Trench-Line-Through-the-Second-Battle-of-Ypre_
 gutenberg_issued: '2016-02-23'
 gutenberg_type: Text
 identifiers:
